@@ -1,6 +1,6 @@
 from google import genai
 
-API = "yourapi-inthis"
+API = "yourapi"
 
 client = genai.Client(api_key=API)
 
